@@ -1,3 +1,0 @@
-n = int(input("Enter birthday")
-r = int(input("Enter recent")
-print("Your age is ", (r-n))
