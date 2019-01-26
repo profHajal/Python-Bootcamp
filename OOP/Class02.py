@@ -1,5 +1,5 @@
 class Car:
-    def __init__(self,name,color):  ## __init__() in py as contructor
+    def __init__(self,name,color):  ## __init__() in py as constructor
       self.name = name
       self.color = color
       
